@@ -1,0 +1,38 @@
+ .intro{color:red;
+      background-color:linear-gradient(to bottom, #00ffff -2%, #ff0000 106%);
+      font-family:courier; 
+      text-align:left;
+      }
+    
+    .header{
+      color:cyan;
+        font-size: 40px;
+      border:1px solid black;
+    }
+      
+     body {
+      background-color:springgreen;
+      text-align:center;
+      }
+    
+    .content{
+      text-align:center;
+      background-color:orange;
+      width:50%;
+      height:500px;
+      font-size:30px;
+    }
+    .image{
+     width:100%
+    }
+    .basketball{
+                    background-color:red;
+                    width:50%;
+      font-family:courier;}
+
+
+  .web{
+    background-color:green;
+    width:50%;
+    border: 3px dashed orange;
+}
